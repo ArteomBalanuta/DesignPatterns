@@ -5,7 +5,7 @@ import ab.design.strategy.behaviour.impl.ElephantEatBehaviour;
 import ab.design.strategy.models.Animal;
 import ab.design.strategy.models.Elephant;
 
-public class Strategy {
+public class StrategyEP {
     public static void main(String[] args) {
         Animal elephant = new Elephant();
         elephant.eat();

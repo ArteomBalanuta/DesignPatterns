@@ -4,7 +4,7 @@ import ab.design.observer.impl.FirstDisplay;
 import ab.design.observer.impl.SecondDisplay;
 import ab.design.observer.impl.WeatherData;
 
-public class Observer {
+public class ObserverEP {
     public static void main(String[] args) {
         WeatherData weatherData = new WeatherData();
 
